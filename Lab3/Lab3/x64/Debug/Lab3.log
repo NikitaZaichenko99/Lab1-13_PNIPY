@@ -1,0 +1,5 @@
+﻿  Lab3_main.cpp
+C:\Users\nikit\source\repos\Lab3\Lab3\Lab3_main.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Money.cpp
+  Создание кода...
+  Lab3.vcxproj -> C:\Users\nikit\source\repos\Lab3\x64\Debug\Lab3.exe

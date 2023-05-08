@@ -1,0 +1,6 @@
+﻿  Triad.cpp
+  Lab4_main.cpp
+C:\Users\nikit\source\repos\Lab4\Lab4\Lab4_main.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Time.cpp
+  Создание кода...
+  Lab4.vcxproj -> C:\Users\nikit\source\repos\Lab4\x64\Debug\Lab4.exe

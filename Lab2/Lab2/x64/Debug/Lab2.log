@@ -1,0 +1,5 @@
+﻿  Lab2_main.cpp
+C:\Users\nikit\source\repos\Lab2\Lab2\Lab2_main.cpp(30,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Employee.cpp
+  Создание кода...
+  Lab2.vcxproj -> C:\Users\nikit\source\repos\Lab2\x64\Debug\Lab2.exe
