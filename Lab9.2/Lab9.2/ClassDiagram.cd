@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SizeError">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAQAgAAAAAA=</HashCode>
+      <FileName>error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Set">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAABAAgEIEAAwAAAAEAAAAAAAAwAAAAAgA=</HashCode>
+      <FileName>Set.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Iterator">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Set.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IndexError2">
+    <Position X="3.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAk=</HashCode>
+      <FileName>error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IndexError1">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAg=</HashCode>
+      <FileName>error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IndexError">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAA=</HashCode>
+      <FileName>error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Error">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmptySizeError">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAg=</HashCode>
+      <FileName>error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
