@@ -1,0 +1,7 @@
+﻿  Money.cpp
+  zadacha_2_main.cpp
+C:\Users\nikit\source\repos\Zadacha_2\zadacha_2_main.cpp(86,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikit\source\repos\Zadacha_2\zadacha_2_main.cpp(100,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\nikit\source\repos\Zadacha_2\zadacha_2_main.cpp(95): warning C4715: average: значение возвращается не при всех путях выполнения
+  Zadacha_2.vcxproj -> C:\Users\nikit\source\repos\Lab11\x64\Debug\Zadacha_2.exe
