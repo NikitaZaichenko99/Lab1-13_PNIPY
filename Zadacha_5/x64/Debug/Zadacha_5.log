@@ -1,0 +1,9 @@
+﻿  Money.cpp
+  zadacha_5_main.cpp
+C:\Users\nikit\source\repos\Zadacha_5\zadacha_5_main.cpp(9,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\nikit\source\repos\Zadacha_5\Vector.h(59,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikit\source\repos\Zadacha_5\Vector.h(52,1): message : во время компиляции функции-члена класс шаблон "Vector<Money>::Vector(int)"
+C:\Users\nikit\source\repos\Zadacha_5\zadacha_5_main.cpp(13,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "Vector<Money>::Vector(int)"
+C:\Users\nikit\source\repos\Zadacha_5\zadacha_5_main.cpp(13,17): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Money>"
+  Создание кода...
+  Zadacha_5.vcxproj -> C:\Users\nikit\source\repos\Lab11\x64\Debug\Zadacha_5.exe

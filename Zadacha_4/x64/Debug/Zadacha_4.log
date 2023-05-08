@@ -1,0 +1,6 @@
+﻿  Money.cpp
+  zadacha_4_main.cpp
+C:\Users\nikit\source\repos\Zadacha_4\zadacha_4_main.cpp(134,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\nikit\source\repos\Zadacha_4\zadacha_4_main.cpp(138,9): warning C4101: a: неиспользованная локальная переменная
+  Создание кода...
+  Zadacha_4.vcxproj -> C:\Users\nikit\source\repos\Lab11\x64\Debug\Zadacha_4.exe
