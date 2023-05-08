@@ -1,0 +1,5 @@
+﻿  Money.cpp
+  zadacha_2_main.cpp
+C:\Users\nikit\source\repos\Lab12\Zadacha_2\zadacha_2_main.cpp(48,35): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  Zadacha_2.vcxproj -> C:\Users\nikit\source\repos\Lab12\x64\Debug\Zadacha_2.exe

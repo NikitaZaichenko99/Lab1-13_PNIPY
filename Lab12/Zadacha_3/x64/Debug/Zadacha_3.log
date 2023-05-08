@@ -1,0 +1,5 @@
+﻿  Money.cpp
+  zadacha_3_main.cpp
+C:\Users\nikit\source\repos\Lab12\Zadacha_3\zadacha_3_main.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Zadacha_3.vcxproj -> C:\Users\nikit\source\repos\Lab12\x64\Debug\Zadacha_3.exe

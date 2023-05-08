@@ -1,0 +1,7 @@
+﻿  Money.cpp
+  zadacha_1_main.cpp
+C:\Users\nikit\source\repos\Zadacha_1\zadacha_1_main.cpp(56,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\nikit\source\repos\Zadacha_1\zadacha_1_main.cpp(70,9): warning C4101: n: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\nikit\source\repos\Zadacha_1\zadacha_1_main.cpp(65): warning C4715: findSredneeAndPush: значение возвращается не при всех путях выполнения
+  Zadacha_1.vcxproj -> C:\Users\nikit\source\repos\Lab_13\x64\Debug\Zadacha_1.exe
