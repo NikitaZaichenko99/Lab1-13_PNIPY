@@ -1,0 +1,5 @@
+﻿  Lab10_main.cpp
+C:\Users\nikit\source\repos\Lab10\Lab10\Lab10_main.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Money.cpp
+  Создание кода...
+  Lab10.vcxproj -> C:\Users\nikit\source\repos\Lab10\x64\Debug\Lab10.exe
