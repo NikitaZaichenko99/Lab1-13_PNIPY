@@ -1,0 +1,7 @@
+﻿  lab6_main().cpp
+C:\Users\nikit\source\repos\Lab6\Lab6\lab6_main().cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\nikit\source\repos\Lab6\Lab6\lab6_main().cpp(7,18): warning C4101: s: неиспользованная локальная переменная
+  Set.cpp
+  Создание кода...
+C:\Users\nikit\source\repos\Lab6\Lab6\Set.cpp(44): warning C4715: Set::operator[]: значение возвращается не при всех путях выполнения
+  Lab6.vcxproj -> C:\Users\nikit\source\repos\Lab6\x64\Debug\Lab6.exe

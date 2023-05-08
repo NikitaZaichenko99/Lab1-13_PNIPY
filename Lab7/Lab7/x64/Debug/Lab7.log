@@ -1,0 +1,6 @@
+﻿  lab7_main().cpp
+C:\Users\nikit\source\repos\Lab7\Lab7\lab7_main().cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Money.cpp
+  Создание кода...
+C:\Users\nikit\source\repos\Lab7\Lab7\Set.h(65): warning C4715: Set<Money>::operator[]: значение возвращается не при всех путях выполнения
+  Lab7.vcxproj -> C:\Users\nikit\source\repos\Lab7\x64\Debug\Lab7.exe
